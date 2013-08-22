@@ -1,0 +1,66 @@
+.space {
+	height: 70;
+	width: 100;
+	display: inline-block;
+	padding: 3px;
+	font-family: "Comic Sans MS";
+	font-size: 96;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.row {
+	white-space: nowrap;
+	margin-left: 300px;
+}
+
+/* TopLeft */
+#space00 {
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+/* MidLeft */
+#space01 {
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+/* BtmLeft */
+#space02 {
+  border-right: 2px solid black;
+}
+
+/* TopMid */
+#space10 {
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+/* MidMid */
+#space11 {
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+/* BtmMid */
+#space12 {
+  border-right: 2px solid black;
+}
+
+/* TopRight */
+#space20 {
+	border-bottom: 2px solid black;
+}
+
+/* MidRight */
+#space21 {
+	border-bottom: 2px solid black;
+}
+
+#messages {
+	font-size: 96;
+	color: black;
+	font-weight: bolder;
+}
